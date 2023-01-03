@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DediNurdin
-- 👀 I’m  currently working on Kotlin
+- 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning Kotlin 
-- 📫 How to reach me : @developwithdedi@gmail.com or DM via insta https://www.instagram.com/dedinurdinn/
+- 📫 How to reach me @developwithdedi@gmail.com or DM via insta https://www.instagram.com/dedinurdinn/
 
 <!---
 DediNurdin/DediNurdin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
