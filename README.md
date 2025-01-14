@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @DediNurdin<br>👀 I’m interested in Mobile Development<br>🌱 I’m currently learning Kotlin and Flutter<br>📫 How to reach me @developwithdedi@gmail.com or DM via insta https://www.instagram.com/dedinurdinn/
+👋 Hi, I’m @DediNurdin<br>👀 I’m interested in Mobile Development<br>🌱 I’m currently work with Kotlin and Flutter<br>📫 How to reach me @developwithdedi@gmail.com or DM via insta https://www.instagram.com/dedinurdinn/
 
 
 ## 🌐 Socials:
